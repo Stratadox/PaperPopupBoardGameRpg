@@ -13,7 +13,9 @@ At the start of the game, each player:
 
 Decide who goes first by dice rolling or something.
 
-There are (at least) 6 options per name part: up to 5 of them may 
+There are (at least) 6 options per name part: up to 5 of them may be occupied 
+by the [leaderboard](../Leaderboard.md#individual-leaderboard); there's always 
+at least one name available.
 
 ### Human
 
