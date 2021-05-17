@@ -8,6 +8,10 @@ How's that for a working title?
 
 A board game with animated 3D graphics? Say what? Yep.
 
+For a tiny demo / sneak preview of the kinds of mechanisms involved, see:
+
+[![Pop up monster demo](Images/PopupMonsterDemo.png)](https://www.youtube.com/watch?v=lDkooowNFPM)
+
 ### Board Game RPG
 
 The game is set in a world that allows for a myriad of different storylines, 
@@ -50,3 +54,11 @@ characters explore the game world to fulfil their main- and side quests.
 
 The players start by picking a character and drawing the first chapter of the 
 story. For more details, see the [gameplay section](Gameplay.md).
+
+## World
+
+Although the characters don't realize it, the world where the game takes place 
+is a tiny border planet that plays a minor role in a [greater intergalactic 
+conflict](Background.md). Does that knowledge help us defeat these gargantum 
+birds that have their minds set on eating us? Probably not, but it's there if you're 
+interested.

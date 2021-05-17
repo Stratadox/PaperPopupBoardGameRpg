@@ -1,5 +1,7 @@
 # Stats
 
+@todo prune stats?
+
 ## Character Stats
 
 Character stats can be influenced by many aspects of the game, such as the
@@ -23,6 +25,12 @@ the [terrain type](Cards/World.md), in-game events, or combinations of those.
 
 ### Fatigue
 
+- 0 - 10
+- Start at 0
+- At 7 or more, reduce the amount of [actions per turn](Turns.md#actions) by 1.
+- At 10, your character falls asleep for the turn.
+- Automatically increases by 2 each turn.
+
 ### Morale
 
 - 0 - 10.
@@ -32,14 +40,13 @@ the [terrain type](Cards/World.md), in-game events, or combinations of those.
 - At 5 or lower, roll a morale check at the start of your turn:
   - If you roll higher than your morale, add a darkness point for the difference.
 
-
 ### Karma
 
 - 0 - 10.
 - Start at 6.
-- At 10, when drawing a [critical or regular backfire](Cards/Combat.md) for your
+- At 10, when drawing a [critical or regular backfire](Cards/Battle.md) for your
   attack, redraw.
-- At 9, when drawing a [critical backfire](Cards/Combat.md) for your attack,
+- At 9, when drawing a [critical backfire](Cards/Battle.md) for your attack,
   redraw.
 - At 5 or lower, roll a karma check at the start of your turn:
     - If you roll higher than your karma, add a darkness point for the difference.
@@ -72,8 +79,8 @@ the [terrain type](Cards/World.md), in-game events, or combinations of those.
 
 ### Health
 
-- 0 - 10.
-- Start at 10.
+- 0 - 20.
+- Start at 20.
 - At 0, your character is dead.
 
 ## Section Stats

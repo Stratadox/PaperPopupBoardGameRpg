@@ -1,4 +1,4 @@
-# Combat
+# Battle
 
 Each player has a battle deck, consisting of anywhere between 6 and 12 Battle 
 cards, plus a shuffle card.

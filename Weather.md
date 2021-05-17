@@ -6,7 +6,8 @@ while it's completely dry in the south.
 
 ## Aspects
 
-Each turn, roll per row of the [world](Cards/World.md) for: 
+Each turn, roll per row of the [world](Cards/World.md) where characters are 
+present for: 
 
 ### Clouds
 
@@ -48,53 +49,53 @@ Consequences apply to all [characters](Cards/Characters.md) and [enemies](Cards/
 ### Snowstorm
 
 Rule changes:
-- [Fields produce](Gameplay.md#resource-rate) nothing.
-- [Visibility](Gameplay.md#visibility) reduced by 3.
-- [Speed](Gameplay.md#speed) reduced by 2.
-- [Morale](Gameplay.md#morale) reduced by 1.
+- [Fields produce](Stats.md#resource-rate) nothing.
+- [Visibility](Stats.md#visibility) reduced by 3.
+- [Speed](Stats.md#speed) reduced by 2.
+- [Morale](Stats.md#morale) reduced by 1.
 
 ### Hailstorm
 
 Rule changes:
-- [Fields produce](Gameplay.md#resource-rate) nothing.
-- [Visibility](Gameplay.md#visibility) reduced by 2.
-- [Speed](Gameplay.md#speed) reduced by 2.
-- [Morale](Gameplay.md#morale) reduced by 1.
+- [Fields produce](Stats.md#resource-rate) nothing.
+- [Visibility](Stats.md#visibility) reduced by 2.
+- [Speed](Stats.md#speed) reduced by 2.
+- [Morale](Stats.md#morale) reduced by 1.
 
 ### Snow
 
 Rule changes:
-- [Field production](Gameplay.md#resource-rate) reduced by 2.
-- [Visibility](Gameplay.md#visibility) reduced by 1.
-- [Speed](Gameplay.md#speed) reduced by 1.
-- [Morale](Gameplay.md#morale) reduced by 1 if last turn was hail or snow.
+- [Field production](Stats.md#resource-rate) reduced by 2.
+- [Visibility](Stats.md#visibility) reduced by 1.
+- [Speed](Stats.md#speed) reduced by 1.
+- [Morale](Stats.md#morale) reduced by 1 if last turn was hail or snow.
 
 ### Hail
 
 Rule changes:
-- [Field production](Gameplay.md#resource-rate) reduced by 2.
-- [Visibility](Gameplay.md#visibility) reduced by 2.
-- [Morale](Gameplay.md#morale) reduced by 1 if last turn was hail or snow.
+- [Field production](Stats.md#resource-rate) reduced by 2.
+- [Visibility](Stats.md#visibility) reduced by 2.
+- [Morale](Stats.md#morale) reduced by 1 if last turn was hail or snow.
 
 ### Heavy rain
 
 Rule changes:
-- [Field production](Gameplay.md#resource-rate) increased by 2.
-- [Visibility](Gameplay.md#visibility) reduced by 1.
-- [Morale](Gameplay.md#morale) reduced by 1 if last 2 turns were light- or heavy 
+- [Field production](Stats.md#resource-rate) increased by 2.
+- [Visibility](Stats.md#visibility) reduced by 1.
+- [Morale](Stats.md#morale) reduced by 1 if last 2 turns were light- or heavy 
   rain.
 
 ### Light rain
 
 Rule changes:
-- [Field production](Gameplay.md#resource-rate) increased by 1.
-- [Morale](Gameplay.md#morale) reduced by 1 if last 2 turns were light- or heavy 
+- [Field production](Stats.md#resource-rate) increased by 1.
+- [Morale](Stats.md#morale) reduced by 1 if last 2 turns were light- or heavy 
   rain.
 
 ### Occasional light rain
 
 Rule changes:
-- [Field production](Gameplay.md#resource-rate) increased by 1.
+- [Field production](Stats.md#resource-rate) increased by 1.
 
 ### Occasional drops
 
@@ -104,6 +105,6 @@ Rule changes:
 ### Dry
 
 Rule changes:
-- [Field production](Gameplay.md#resource-rate) reduced by the amount of 
+- [Field production](Stats.md#resource-rate) reduced by the amount of 
   previous turns with dry whether.
-- [Thirst](Gameplay.md#thirst) increased by 1.
+- [Thirst](Stats.md#thirst) increased by 1.

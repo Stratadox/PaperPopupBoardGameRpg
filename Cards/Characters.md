@@ -46,8 +46,8 @@ at least one name available.
 
 ### Elf
 
-- Start with [critical ranged](Combat.md#critical-ranged) instead of [critical
-  melee](Combat.md#critical-melee).
+- Start with [critical ranged](Battle.md#critical-ranged) instead of [critical
+  melee](Battle.md#critical-melee).
 - Start with +1 [intelligence](../Stats.md#intelligence).
 - +1 [visibility](../Stats.md#visibility) in the [woods](World.md#woods).
 - [Exploration bonus](../Score.md#exploration-bonus) counts double towards
@@ -76,7 +76,7 @@ at least one name available.
 
 ### Dwarf
 
-- Redraw up to once when [fighting](Combat.md) in the [hills](World.md#hills) or
+- Redraw up to once when [fighting](Battle.md) in the [hills](World.md#hills) or
   on a [mountain](World.md#mountain).
 - Start with +1 [strength](../Stats.md#strength).
 - [Wealth bonus](../Score.md#wealth-bonus) counts double towards individual
@@ -174,8 +174,8 @@ at least one name available.
 
 ### Centaur
 
-- Start with [critical ranged](Combat.md#critical-ranged) instead of [critical
-  melee](Combat.md#critical-melee).
+- Start with [critical ranged](Battle.md#critical-ranged) instead of [critical
+  melee](Battle.md#critical-melee).
 - Start with +1 [intelligence](../Stats.md#intelligence).
 - Start with 6 default [speed](../Stats.md#speed).
 - Can't use mounts.
