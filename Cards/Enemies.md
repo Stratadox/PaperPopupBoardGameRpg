@@ -134,7 +134,35 @@ Giant flesh-eating birds with nests in the mountaintops.
 
 [![Gargantuma concept art](../Images/ConceptArt/gargantuma.png)](../Images/ConceptArt/gargantuma_dev.png)
 
-@todo
+Patient hunter, deadly claws and teeth, attacks its victims from above.
+
+Native to these lands, the gargantuma are ancient, giant bird-like monsters. 
+They stalk their prey from far above, making a swift dive to snatch the victims 
+at their weakest moment. Their language has some very nasty references. Their 
+word for tapas is "goblin", "snack" translates to "human", and their word for 
+"steak" sounds an awful lot like "centaur".
+
+Unchallenged rulers of the skies, these silent killers are feared by all. They 
+bide their time, and strike at the most opportune moment. If you're in a combat, 
+and a gargantuma is hovering above, you'd better appear to be on the winning 
+side - if you play your cards well, luck might be on your side: the gargantuma 
+just might carry away one of your foes. Or you, if you make the slightest of 
+missteps.
+
+Oh, and you had better appear dangerous, when you encounter one of these... if 
+they don't think you'll be a challenge for them, they will attack outright.
+Gargantuma pride themselves on their judgement; the unprepared seldom survive.
+
+Variants:
+- Uninterested
+- Young
+- Enraged
+- Venomous
+- Paralysing
+- Lightning
+- Heroic
+- Elite
+- Supreme
 
 ### Horramar
 
