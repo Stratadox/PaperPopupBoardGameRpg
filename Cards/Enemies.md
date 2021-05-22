@@ -200,6 +200,14 @@ Variants:
 - Heroic
 - Elite
 
+### Arkeboar
+
+Heavy-hitting boar-like herbivore with ankylosaurus-like tail.
+
+[![Arkeboar concept art](../Images/ConceptArt/arkeboar.png)](../Images/ConceptArt/arkeboar_dev.png)
+
+@todo
+
 ### More enemies...
 
 @todo
