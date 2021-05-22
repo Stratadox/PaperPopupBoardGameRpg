@@ -166,7 +166,39 @@ Variants:
 
 ### Horramar
 
-@todo
+Forest-dwelling trollish monster, ambushes victims with a giant morningstar.
+
+[![Horramar concept art](../Images/ConceptArt/horramar.png)](../Images/ConceptArt/horramar_dev.png)
+
+Territorial, ambushing, devastating melee, jumps at unsuspecting travelers.
+
+These powerful melee fighters lurk in the local forests, laying in wait for the 
+rich merchants, well-equipped adventurers and tasty monks that frequent the 
+roads through their area. Their lust for gold and shiny pointy objects, is 
+rivaled only by their deep desire to smash tasty travelers into a puree-like 
+mush and bake the result into some kind of morbid cake. We tell these as scary 
+stories to our children, but these cakes are no lies.
+
+Horramar are masters of their own domains. They move unseen between the foliage; 
+in most cases, when you see them, it means they're already jumping out of their 
+ambush, straight at you, and the impact of the morningstar is a split second 
+away. Few are able to retell the tale. 
+
+We don't know much about their origins, or their history. There have been folks 
+who went to find out, but those folks all became dinner before they could report 
+on their findings. The bergebub say they're very old, but how reliable are such 
+rumours? 
+
+Variants:
+- Young
+- Injured
+- Enraged
+- Quick
+- Silent
+- Venomous
+- Vile
+- Heroic
+- Elite
 
 ### More enemies...
 

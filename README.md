@@ -95,6 +95,8 @@ Probably not, but it's there if you're interested.
 [![Bergebub](Images/ConceptArt/bergebub.png)](Cards/Enemies.md#bergebub)
 #### Gargantuma
 [![Gargantuma](Images/ConceptArt/gargantuma.png)](Cards/Enemies.md#gargantuma)
+#### Horramar
+[![Horramar concept art](Images/ConceptArt/horramar.png)](Cards/Enemies.md#horramar)
 
 ### Map
 
