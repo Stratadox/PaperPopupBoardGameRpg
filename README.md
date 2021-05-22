@@ -57,8 +57,47 @@ story. For more details, see the [gameplay section](Gameplay.md).
 
 ## World
 
+The game is set in a magical medieval-style world, in order to make it more 
+original. After all, nobody else has ever put their fantasy game in a medieval 
+setting yet. 😅
+
+Are medieval magic fantasy tropes overused? Possibly. This is my game, if I 
+want to make a medieval fantasy game, then that's what I'll make! 😁 
+Besides, with all the original content that's built on top of it, having a 
+familiar world style might just be the anchor needed to keep it understandable
+and immersive.
+
+The [playable characters](Cards/Characters.md#species) are all "existing" 
+species in fantasy, some more common (human, elf, dwarf) than others (goblin, 
+centaur, reptilian) but each of them will already have some familiarity to most 
+players.
+
+Most [enemies](Cards/Enemies.md#enemy-types) are custom-made for this game. 
+Each kind of enemy has their own backstory, fitting in the context of the 
+[background](Background.md) of the game world. While, for instance, the 
+[leleblum](Cards/Enemies.md#leleblum) are an imported slave warrior species, 
+the [torturans](Cards/Enemies.md#torturan) and [bergebub](Cards/Enemies.md#bergebub) 
+are very much native to these lands.
+
 Although the characters don't realize it, the world where the game takes place 
 is a tiny border planet that plays a minor role in a [greater intergalactic 
-conflict](Background.md). Does that knowledge help us defeat these gargantum 
-birds that have their minds set on eating us? Probably not, but it's there if you're 
-interested.
+conflict](Gods.md). Does that knowledge help us defeat these [gargantuma 
+birds](Cards/Enemies.md#gargantuma) that have their minds set on eating us? 
+Probably not, but it's there if you're interested.
+
+### Concept art
+
+#### Leleblum
+[![Leleblum](Images/ConceptArt/leleblum.png)](Cards/Enemies.md#leleblum)
+#### Torturan
+[![Torturan](Images/ConceptArt/torturan.png)](Cards/Enemies.md#torturan)
+#### Bergebub
+[![Bergebub](Images/ConceptArt/bergebub.png)](Cards/Enemies.md#bergebub)
+#### Gargantuma
+[![Gargantuma](Images/ConceptArt/gargantuma.png)](Cards/Enemies.md#gargantuma)
+
+### Map
+
+A map of the world might look somewhat like this:
+
+[![Example map](Images/ExampleMap.png)](Images/ExampleMap.png)
