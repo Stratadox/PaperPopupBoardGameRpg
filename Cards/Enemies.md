@@ -13,6 +13,17 @@ Many enemies are way too dangerous to fight head-on for anyone, but the most
 experienced adventurers. In such cases, the best defence against a powerful 
 enemy is often another powerful enemy.
 
+## Variants
+
+Enemies come in a number of "variants". Nine of each, to be precise. 
+The variant of the enemy your characters encounter is determined by:
+- Rolling a die;
+- Adding 1 for groups of 4 characters, 2 for groups of 5;
+- Adding or subtracting 1 for the monster bonus or malus;
+
+This gives you a number between 0 and 9. If it's 0, consider it 1. 
+The resulting number indicates the variant.
+
 ## Enemy Types
 
 ### Demons
@@ -29,7 +40,25 @@ if you encounter a corrupted elf, it will try to corrupt the elf on your team,
 if you have any. A corrupted goblin will try to convert the goblin and murder 
 the others, etc.
 
-@todo
+Species: 
+Assign a number to each character in your group, starting at 1. 
+Roll a die. If you rolled the number of a character, the corrupted stranger will 
+be of the same species. Otherwise, shuffle and draw from the remaining species 
+cards to determine the species of this corrupted soul.
+
+Variants:
+- Dimwitted
+- Inexperienced
+- Devotedly
+- Convincing
+- Sneaky
+- Well-armed
+- Experienced
+- Fallen hero
+- Childhood friend
+
+One might end up with a "Devotedly corrupted centaur", a "Well-armed corrupted 
+goblin", an "Experienced corrupted reptilian" or any other combination.
 
 ### Infected-
 
