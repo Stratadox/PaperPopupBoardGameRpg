@@ -49,12 +49,12 @@ metal skins
 Variants:
 - Young
 - Defensive
-- Enraged
+- Angry
+- Quick
+- Strong
 - Venomous
 - Frost
 - Lightning
-- Warrior
-- Heroic
 - Elite
 
 ### Bergebub
@@ -191,7 +191,7 @@ rumours?
 
 Variants:
 - Young
-- Injured
+- Weakened
 - Enraged
 - Quick
 - Silent
@@ -206,7 +206,34 @@ Heavy-hitting boar-like herbivore with ankylosaurus-like tail.
 
 [![Arkeboar concept art](../Images/ConceptArt/arkeboar.png)](../Images/ConceptArt/arkeboar_dev.png)
 
-@todo
+Territorial, strong tusk charge attack, and a dangerous tail to guard the rear.
+
+The arkeboar is a heavy-weight herbivore. Although they don't kill other living 
+beings for food, they *will* attack. To protect their territory, and to prevent 
+their (regenerative) tusks from growing too long. Attackers from behind or from 
+the side can expect massive crush damage from its heavy spiked tail. 
+
+These heavy grazers have been evolving in the local woods since before we began 
+recording our history. We can't be sure if its tail club has grown and hardened 
+over time, whether our records have underwhelming images or if the only specimen 
+they managed to get a close view of - and retell the tale - happened to be in 
+possession of fewer natural weapons. Whatever the cause, many novice travelers 
+have been fatally surprised by the arkeboar - the real thing looks (and is) a 
+lot more terrifying than the drawings they had seen.
+
+If you do manage to slay the arkeboar, prepare for a feast: they contain plenty 
+of meat, and are considered a delicacy by many.
+
+Variants:
+- Young
+- Weakened
+- Enraged
+- Quick
+- Silent
+- Extra strong
+- Flame-spitting
+- Heroic
+- Elite
 
 ### More enemies...
 
