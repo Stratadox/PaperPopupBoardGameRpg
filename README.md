@@ -87,18 +87,9 @@ Probably not, but it's there if you're interested.
 
 ### Concept art
 
-#### Leleblum
-[![Leleblum](Images/ConceptArt/leleblum.png)](Cards/Enemies.md#leleblum)
-#### Torturan
-[![Torturan](Images/ConceptArt/torturan.png)](Cards/Enemies.md#torturan)
-#### Bergebub
-[![Bergebub](Images/ConceptArt/bergebub.png)](Cards/Enemies.md#bergebub)
-#### Gargantuma
-[![Gargantuma](Images/ConceptArt/gargantuma.png)](Cards/Enemies.md#gargantuma)
-#### Horramar
-[![Horramar concept art](Images/ConceptArt/horramar.png)](Cards/Enemies.md#horramar)
+Some enemies the players might encounter:
 
-### Map
+[![Enemies](Images/ConceptArt/group.png)](Images/ConceptArt/group_dev.png)
 
 A map of the world might look somewhat like this:
 
