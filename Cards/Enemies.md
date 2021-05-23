@@ -2,6 +2,17 @@
 
 Now with epic paint skills concept art! 😎
 
+The enemies in this game are not guaranteed to always form a single front 
+against the players. You might just have been fighting an arkeboar when suddenly 
+a gargantuma falls out of the sky, snatches your enemy and flies off. Maybe you 
+were facing a torturan, and a group of bergebub shows up to snatch it's skin.
+A leleblum will attack anything - that could include the scary monster that is 
+chasing you. 
+
+Many enemies are way too dangerous to fight head-on for anyone, but the most 
+experienced adventurers. In such cases, the best defence against a powerful 
+enemy is often another powerful enemy.
+
 ## Enemy Types
 
 ### Demons
